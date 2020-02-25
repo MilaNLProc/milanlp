@@ -6,11 +6,11 @@ MilaNLP Library
 .. image:: https://img.shields.io/pypi/v/milanlp.svg
         :target: https://pypi.python.org/pypi/milanlp
 
-.. image:: https://img.shields.io/travis/vinid/milanlp.svg
-        :target: https://travis-ci.com/vinid/milanlp
+.. image:: https://img.shields.io/travis/MilaNLProc/milanlp.svg
+        :target: https://travis-ci.org/MilaNLProc/milanlp
 
 .. image:: https://readthedocs.org/projects/milanlp/badge/?version=latest
-        :target: https://milanlp.readthedocs.io/en/latest/?badge=latest
+        :target: https://milanlp.readthedocs.io/en/latest/
         :alt: Documentation Status
 
 
